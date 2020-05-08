@@ -14,7 +14,9 @@ $ python manage.py runserver
 ### Credentials
 
 Admin user
+
 login: admin
+
 password: 12345
 
 ### API
