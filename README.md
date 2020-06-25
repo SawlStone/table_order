@@ -33,7 +33,7 @@ password: 12345
 
 method: `POST`
 
-endpoint: `api/table_order/create/`
+endpoint: `api/table_orders/`
 
 params: 
 ```json
